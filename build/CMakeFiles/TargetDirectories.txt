@@ -1,0 +1,3 @@
+/opt/gitHub_project_one/Hello-World/build/CMakeFiles/rebuild_cache.dir
+/opt/gitHub_project_one/Hello-World/build/CMakeFiles/edit_cache.dir
+/opt/gitHub_project_one/Hello-World/build/CMakeFiles/main.dir
